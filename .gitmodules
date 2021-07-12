@@ -1,3 +1,6 @@
 [submodule "day_2_pessoa"]
 	path = day_2_pessoa
 	url = https://github.com/mentoria-goncalo-lopes/day_2_pessoa
+[submodule "getaway_day_2"]
+	path = getaway_day_2
+	url = https://github.com/mentoria-goncalo-lopes/getaway_day_2
