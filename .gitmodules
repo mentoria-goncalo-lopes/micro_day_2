@@ -4,3 +4,6 @@
 [submodule "getaway_day_2"]
 	path = getaway_day_2
 	url = https://github.com/mentoria-goncalo-lopes/getaway_day_2
+[submodule "config_day_2"]
+	path = config_day_2
+	url = https://github.com/mentoria-goncalo-lopes/config_day_2
