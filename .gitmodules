@@ -1,0 +1,3 @@
+[submodule "day_2_pessoa"]
+	path = day_2_pessoa
+	url = https://github.com/mentoria-goncalo-lopes/day_2_pessoa
