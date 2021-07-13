@@ -7,3 +7,6 @@
 [submodule "config_day_2"]
 	path = config_day_2
 	url = https://github.com/mentoria-goncalo-lopes/config_day_2
+[submodule "day_2_service_discovery"]
+	path = day_2_service_discovery
+	url = https://github.com/mentoria-goncalo-lopes/day_2_service_discovery
