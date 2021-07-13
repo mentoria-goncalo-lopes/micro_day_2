@@ -12,3 +12,28 @@ services:
       - ~/jenkins:/var/jenkins_home
       - /var/run/docker.sock:/var/run/docker.sock
       - /usr/local/bin/docker:/usr/local/bin/docker
+
+  pessoa:
+    build: day_2_pessoa/.Dockerfile
+    ports:
+    - 8082:8082
+    depends_on:
+      - pessoadb
+
+  pessoadb:
+    image: mariadb
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD}"
+      MYSQL_DATABASE: "${MYSQL_DATABASE}"
+      MYSQL_USER: "${MYSQL_USER}"
+      MYSQL_PASSWORD: "${MYSQL_PASSWORD}"
+    ports:
+      3306:9306
+
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8083

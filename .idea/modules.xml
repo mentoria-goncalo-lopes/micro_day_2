@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/getaway_day_2/gateway.iml" filepath="$PROJECT_DIR$/getaway_day_2/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/micro_day_2.iml" filepath="$PROJECT_DIR$/.idea/micro_day_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_2_pessoa/pessoa.iml" filepath="$PROJECT_DIR$/day_2_pessoa/pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_2_service_discovery/service_discovery.iml" filepath="$PROJECT_DIR$/day_2_service_discovery/service_discovery.iml" />
     </modules>
   </component>
 </project>
