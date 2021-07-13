@@ -10,3 +10,6 @@
 [submodule "day_2_service_discovery"]
 	path = day_2_service_discovery
 	url = https://github.com/mentoria-goncalo-lopes/day_2_service_discovery
+[submodule "day_2_contatos"]
+	path = day_2_contatos
+	url = https://github.com/mentoria-goncalo-lopes/day_2_contatos
