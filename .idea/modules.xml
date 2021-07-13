@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/config_day_2/config.iml" filepath="$PROJECT_DIR$/config_day_2/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_2_contatos/contatos.iml" filepath="$PROJECT_DIR$/day_2_contatos/contatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/getaway_day_2/gateway.iml" filepath="$PROJECT_DIR$/getaway_day_2/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/micro_day_2.iml" filepath="$PROJECT_DIR$/.idea/micro_day_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_2_pessoa/pessoa.iml" filepath="$PROJECT_DIR$/day_2_pessoa/pessoa.iml" />
